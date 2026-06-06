@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a **self-taught Python Developer** passionate about **AI, Automation & Machine Learning**<br> 🤖 I love building things that **automate boring stuff** and solve real-world problems using AI<br> 🌱 Currently diving deep into **Agentic AI, AI Automation & Machine Learning**<br> 💡 I believe in **learning by building** — every project teaches something new<br> 🤝 I'm actively looking for **open-source contributions, internships & collaboration opportunities**<br> ⚡ Fun fact: I don't just learn tech — I **experiment, break things, and rebuild better!**
+🔭 I'm a **self-taught Python Developer** passionate about **AI, Automation & Machine Learning**<br> 🤖 I love building things that **automate boring stuff** and solve real-world problems using AI<br> 🌱 Currently diving deep into **Agentic AI, AI Automation & Machine Learning**<br> 💡 I believe in **learning by building** — every project teaches something new<br> 🤝 I'm actively looking for **open-source contributions, internships & collaboration opportunities**<br> ⚡ Fun fact: I don't just learn tech — I **experiment, break things, and rebuild better!
 
 
 ## 🌐 Socials:
