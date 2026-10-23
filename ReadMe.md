@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ganeshpatel404&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ganeshpatel404&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpatel404&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-purple.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ganeshpatel404&icon=0&color=0)](https://visitcount.itsvg.in)
